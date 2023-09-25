@@ -16,6 +16,7 @@ I have done this project with the help of PowerBi.This project showcase my abili
 1. San-Francisco emerges as the top- selling city,contributing to 25% of the total sales.
 1. December is the highest selling month.
 1. There are two peak period 11:00 AM to 1:00 PM and 6:00 PM to 8:00 PM.
+1. Sales over the weekend contribute 28.52% of the total revenue, while weekday sales account for 71.48% of the total revenue.
 
 # Recommendation for Sales enhancement:
 1. seasonal Focus: Concentrate efforts on the months from august to december with special attention to offering promotion during December,capitalizing on Christmas and Boxing Day.
